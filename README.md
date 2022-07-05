@@ -8,9 +8,7 @@ A simple application, made with ReactJS and Vite.
 
 #### Images:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+<a href="https://imgur.com/3tlDYef"><img src="https://i.imgur.com/3tlDYef.png" title="source: imgur.com" /></a>
 
 ## Installation and Setup Instructions
 
